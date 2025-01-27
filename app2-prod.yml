@@ -1,3 +1,5 @@
-server.port: 8082
-app.name: "Application 2"
-app.environment: "Production"
+server:
+  port: 8080
+app:
+  name: "Ticket Booking App (Prod)"
+  environment: "Production"
