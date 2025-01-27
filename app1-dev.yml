@@ -1,5 +1,5 @@
 server:
   port: 8081
 app:
-  name: "Ticket Booking App Test (Dev)"
+  name: "Ticket Booking App  (Dev)"
   environment: "Development"
