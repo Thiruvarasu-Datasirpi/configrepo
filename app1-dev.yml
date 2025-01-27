@@ -1,3 +1,5 @@
-server.port: 8081
-app.name: "Application 1"
-app.environment: "DEV-ENVIRONMENT"
+server:
+  port: 8081
+app:
+  name: "Ticket Booking App (Dev)"
+  environment: "Development"
